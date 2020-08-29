@@ -26,12 +26,12 @@ body {
 	float: left;
 	width: 25%;
 	height: 200px;
-	border: 4px red solid;
+	border: 1px red solid;
 	overflow: auto;
 }
 
 .menusection {
-	border: 2px black solid;
+	border: 1px black solid;
 	position: relative;
 	top: 0px;
 	float: right;
@@ -71,14 +71,14 @@ body {
 
 @media (max-width: 767px) {
 	.main #Chicken {
-		width: 80%;
+		width: 95%;
 	}
 	.main #Beef {
-		width: 80%;
+		width: 95%;
 		clear: left;
 	}
 	.main #Sushi {
-		width: 80%;
+		width: 95%;
 		clear: left;
 	}
 }
